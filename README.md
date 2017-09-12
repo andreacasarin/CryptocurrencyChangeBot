@@ -2,7 +2,7 @@
 
 A simple serverless Telegram Bot which handle cryptocurrencies change rates in USD and EUR.
 
-You can find it here:
+You can find it here: https://t.me/CryptocurrencyChangeBot
 
 ## Available commands
 
